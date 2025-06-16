@@ -1,5 +1,34 @@
 # Suivi Budget Étudiant
 
+<!-- Logo du projet -->
+<p align="center">
+  <img src="https://i.imgur.com/VEhhjAo.png" alt="Quiz Application Logo" width="300" />
+</p>
+
+<!-- Ligne de séparation animée -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" />
+
+<!-- Effet typing animé -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenue+ici+les+menbres+du+groupe+11;+ici+C'est+le+depot+des+projets;De+Mr+Nabolé+Partagez+vos+codes+Python+et+C&speed=90&size=30&color=F20C39&background=FF20A500&width=800&height=80)](https://git.io/typing-svg)
+
+
+
+
+
+## `Je vous demande de faire part dans le groupe Whatsapp apres avoir tester le projet  `
+
+                                 
+## `CLONE REPO & INSTALLATION DEPENDENCIES suivez les commandes un a un Merci `
+
+```bash
+https://github.com/DARKMAN226/PYTHON-PROJECT.git
+```
+
+```bash
+cd Projet-Mr-Nabol-
+```
+
+
 ## Description
 
 Cette application de bureau simple permet aux étudiants (ou à toute autre personne) de suivre leurs revenus et leurs dépenses. Elle offre une interface graphique pour ajouter des transactions, visualiser un solde, analyser les dépenses par catégorie, filtrer les transactions et interagir avec une IA.
