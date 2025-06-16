@@ -25,7 +25,7 @@ https://github.com/DARKMAN226/PYTHON-PROJECT.git
 ```
 
 ```bash
-cd Projet-Mr-Nabol-
+cd PYTHON-PROJECT
 ```
 
 
