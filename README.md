@@ -72,6 +72,7 @@ pip install -r requirements.txt
 After installing the dependencies, run the application:
 ```bash
 python main.py
+ ```
 The application window will launch, allowing you to:
 
 Enter income or expenses
@@ -79,7 +80,7 @@ Enter income or expenses
 View and filter transactions
 
 Interact with the AI assistant to get budget insights
- ```
+
                                 
 
 
