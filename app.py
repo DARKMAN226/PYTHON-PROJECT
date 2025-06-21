@@ -731,7 +731,7 @@ class BudgetApp(ctk.CTk):
         # La clé API OpenRouter est intégrée directement dans le code
         # ATTENTION: Cette pratique n'est pas recommandée pour des applications en production
         # car elle expose la clé API dans le code source.
-        self.openrouter_api_key = "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"
+        self.openrouter_api_key = "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"
         
         # Information sur l'utilisation de l'API
         api_info_label = ctk.CTkLabel(chat_container, text="Chat IA alimenté par DeepSeek via OpenRouter")
